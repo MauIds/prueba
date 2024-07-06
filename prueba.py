@@ -1,1 +1,1 @@
-print("Hola mundo, vamos a fusionar ramas")
+print("CREANDO UN STASH")
